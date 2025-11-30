@@ -1,0 +1,2 @@
+# Projeto_JS_06_Super_Trunfo
+Projeto_JS_06_Super_Trunfo
